@@ -44,7 +44,7 @@ while True:
 
         E for Escape
         """)
-    option = input(">>")
+    option = input(">> ")
     option = option.lower()
 
     if option == "a":
